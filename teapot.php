@@ -22,8 +22,23 @@
 
 Eat ass, smoke grass, sled fast
 -->
-
+     
 <html>
+	<!--
+
+                       (
+            _           ) )
+         _,(_)._        ((
+    ___,(_______).        )
+  ,'__.   /       \    /\_
+ /,' /  |""|       \  /  /
+| | |   |__|       |,'  /
+ \`.|                  /
+  `. :           :    /
+    `.            :.,'
+      `-.________,-'
+-->
+	
     <head>
         <title>Hype Quotes</title>
         <link rel="icon" type="image/x-icon" href="/favicon.webp">
